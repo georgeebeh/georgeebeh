@@ -90,8 +90,5 @@ This repository will contain:
 
 ## 📊 **GitHub Stats**
 
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgeebeh&show_icons=true&thement*  
-- 🌐 Portfolio: *Optional — add later*  
-- 📫 Email: *Optional*  
-
+![George's GitHub Stats](https://github-readme-statshub-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=georgeebeh&layout=compact&theme=tokyonightt 
 Thanks for visiting — feel free to explore the pinned repositories to see my DevOps work in action!
